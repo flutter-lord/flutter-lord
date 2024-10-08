@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning dart, flutter  and python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...richardolojede2@gmail.com.
-- mobile phone Number : +234 (0) 7011390300
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  😄mobile Number : +234 (0) 7011390300
+- 😄 Pronouns: ...He.
+- ⚡ Fun fact: ...I love any kinds of indoor-game.
 
 <!---
 flutter-lord/flutter-lord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
