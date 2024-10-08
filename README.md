@@ -5,7 +5,7 @@
 - 📫 How to reach me ...richardolojede2@gmail.com.
 -  😄mobile Number : +234 (0) 7011390300
 - 😄 Pronouns: ...He.
-- ⚡ Fun fact: ...I love any kinds of indoor-game.
+- ⚡ Fun fact: ...I love any kinds of indoor-game and sport.
 
 <!---
 flutter-lord/flutter-lord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
