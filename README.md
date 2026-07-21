@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flutter-lord.
-- 👀 I’m interested in modern and Artificial Intelligence / Machine programming language which include mobile app. 
-- 🌱 I’m currently learning dart, flutter  and python and PostgreSql.
+- 👀 I’m interested in Modern and Artificial Intelligence / Machine programming language which include mobile app. 
+- 🌱 I’m currently learning Dart, Flutter, Python and PostgreSql.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...richardolojede2@gmail.com.
 -  😄mobile Number : +234 (0) 9131064960
