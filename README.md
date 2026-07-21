@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @flutter-lord.
-- 👀 I’m interested in modern  and Ai programming language which include mobile app. 
-- 🌱 I’m currently learning dart, flutter  and python.
+- 👀 I’m interested in modern and Artificial Intelligence / Machine programming language which include mobile app. 
+- 🌱 I’m currently learning dart, flutter  and python and PostgreSql.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...richardolojede2@gmail.com.
--  😄mobile Number : +234 (0) 7011390300
-- 😄 Pronouns: ...He.
+-  😄mobile Number : +234 (0) 9131064960
+- 😄 Pronouns: ...He
 - ⚡ Fun fact: ...I love any kinds of indoor-game and sport.
 
 <!---
